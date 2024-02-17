@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/Business/Business.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/Business/UserAccounts/UserAccount.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/Business/Course/StudentBrowseCoursesDirectory.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/Business/Profiles/ProfessorDirectory.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/Business/Course/StudentCourseDirectory.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/UserInterface/workArea/NewUsers/StudentRegistrationJPanel.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/Business/UserAccounts/UserAccountDirectory.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/Business/workArea/Admin/AdminWorkAreaJPanel.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/Business/workArea/Admin/AdminMangeSemesterJPanel.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/Business/Course/StudentCourseStatus.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/UserInterface/ProfileWorkAreaMainJFrame.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/Business/Profiles/StudentProfile.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/UserInterface/workArea/NewUsers/ProfessorRegistrationJPanel.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/UserInterface/workArea/Student/StudentRequestGraduationJPanel.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/UserInterface/workArea/Student/StudentProfileJPanel.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/Business/Course/StudentBrowseCourses.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/Business/Course/ProfessorCourses.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/UserInterface/workArea/Professor/ProfessorManageCoursesjPanel.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/UserInterface/workArea/Professor/ProfessorManageStudentJPanel.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/UserInterface/workArea/Student/StudentRegisteredCoursesJPanel.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/UserInterface/workArea/Student/StudentWorkAreaJPanel.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/UserInterface/workArea/Professor/ProfessorWorkAreaJPanel.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/UserInterface/workArea/Professor/ProfessorProfileJPanel.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/Business/Profiles/ProfessorProfile.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/UserInterface/workArea/Student/StudentViewNewCourseJPanel.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/Business/Profiles/StudentDirectory.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/Business/Course/CourseSemester.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/UserInterface/ConfigureBusiness.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/Business/Course/ProfessorCoursesDirectory.java</file>
+            <file>file:/C:/Users/Darshil%20Shah/OneDrive%20-%20Northeastern%20University/Desktop/assignment-3-group33/assignment-3-group33/Assignment_3/src/Business/Course/StudentCourses.java</file>
+        </group>
+    </open-files>
+</project-private>
